@@ -1,0 +1,3 @@
+interface IScreenCreate{
+    fun create()
+}
